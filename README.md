@@ -24,7 +24,6 @@
            <p>2020 - Teaching Web Fullstack Development</p>
            <p>2020 - Teaching Python</p>
            <p>2020 - Teaching Math</p>
-
        <h3>Skills</h3>
        <ul>
          <li><a href="https://app.webull.com/paper">My Paper Account</a></li>
